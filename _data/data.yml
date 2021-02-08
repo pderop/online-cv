@@ -27,13 +27,10 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Native
+        level: Professional
 
       - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+        level: Native
 
     interests:
       - item: Climbing
